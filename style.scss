@@ -1,0 +1,13 @@
+@import url(https://fonts.googleapis.com/css?family=Bitter|Orbitron|Righteous|Exo|Mogra|Tangerine|Acme|OpenSans);
+@import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css);
+* {box-sizing: border-box;}
+i {color: cornflowerblue;}
+a:hover {box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);}
+body {margin: 0 auto; background-color: #515A5A;}
+img {display: block; margin-left: auto; margin-right: auto;}
+.main {margin: 0 auto; max-width: 1024px; position:relative; padding: 20px;}
+.content {margin: 0 auto; width: 100%; text-align:center;color: white;font-size: calc(100% + .8vw);}
+.footer {margin: 0 auto; font-family: Acme, serif; text-align: center;}
+#title {font-variant: small-caps;font-size: calc(100% + 2vw);}
+#formSearch {font-family: 'Acme', serif;}
+#wikiText {width: 100%; background-color: white; color: black; font-family: 'Acme', serif; font-size: calc(50%); text-align:left; padding: 2%; border:1px solid black;}
